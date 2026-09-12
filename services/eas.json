@@ -1,0 +1,8 @@
+{
+  "build": {
+    "production": {
+      "environment": "production",
+      "autoIncrement": true
+    }
+  }
+}
